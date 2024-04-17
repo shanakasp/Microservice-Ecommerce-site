@@ -9,5 +9,5 @@ app.use("/", (req, res, next) => {
 });
 
 app.listen(8002, () => {
-  console.log("Product is listening on part 8001");
+  console.log("Product is listening on part 8002");
 });
